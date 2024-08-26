@@ -1,6 +1,6 @@
 import React from "react";
 import { HERO_CONTENT } from "../constants";
-import profilePic from "../assets/Abhi_Profile.jpg";
+import profilePic from "../assets/Abhi_profile_overlay30.png";
 import { motion } from "framer-motion";
 
 const container = (delay) => ({
