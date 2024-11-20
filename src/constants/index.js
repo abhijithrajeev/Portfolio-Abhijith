@@ -9,7 +9,7 @@ export const ABOUT_TEXT = `I am a passionate full-stack developer specializing i
 
 export const EXPERIENCES = [
   {
-    year: "July 2024 - Present",
+    year: "July 2024 - August 2024",
     role: "Software Development Intern",
     company: "Terrific Minds",
     description: `As a Software Development Intern at Terrific Minds, I worked with the Shopify team to build an ecommerce website for The Comfort Co. I developed and optimized online retail features, ensuring a seamless user experience and implementing best practices in web development.`,
@@ -18,13 +18,6 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
-  {
-    title: "The Comfort Co. Website",
-    image: project1,
-    description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication using shopify.",
-    technologies: ["HTML", "CSS", "JQuery", "Shopify Liquid"],
-  },
   {
     title: "ChatWave: Chat-App",
     image: project2,
